@@ -1,4 +1,4 @@
-# Cor Capital - Stock Trading Business Website
+# Stock Trading Business Website
 
 ## Overview
 This repository contains the source code for a professional, modern, and responsive one-page website created for a client in the stock trading industry. The website provides comprehensive information about the client's services, programs, and expertise in day trading. It features a clean design, intuitive navigation, and sections that highlight the client's offerings and testimonials from satisfied clients.
